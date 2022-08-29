@@ -1,0 +1,104 @@
+#{
+    margin: 0px;
+    padding:0px;
+}
+
+.main{
+    height: 690px;
+    width: 980px;
+    background-color: white;
+    float: left;
+}
+
+.head{
+    height: 140px;
+    width: 980px;
+    background-color: rgb(32, 61, 32);
+    color: aliceblue;
+    align-items: center;    
+    float: left;
+}
+
+.head b{
+    position: absolute;
+    left: 400px;
+    top: 70px;
+    
+}
+
+.head h1{
+    position: absolute;
+    left: 380px;
+    top: 15px;
+}
+
+.sidebar{
+    height: 450px;
+    width: 270px;
+    background-color: rgb(32, 61, 32);
+    position: absolute;
+    top: 155px;
+}
+
+.sidebar h1{
+    position: absolute;
+    left: 60px;
+    top: 150px;
+    color: white;
+}
+
+.sidebar h4{
+    position: absolute;
+    left: 80px;
+    top: 190px;
+    color: white;  
+}
+
+.content{
+    height: 450px;
+    width: 703px;
+    background-color:rgb(32, 61, 32) ;
+    float: left;
+    position: absolute;
+    top: 155px;
+    left: 285px;
+    color: white;
+}
+
+
+.content h1{
+    position: absolute;
+    left: 300px;
+    top: 150px;
+    color: white;
+}
+
+.content h4{
+    position: absolute;
+    left: 320px;
+    top: 190px;
+    color: white;  
+}
+
+.Footer{
+    height: 70px;
+    width: 980px;
+    float: left;
+    position:absolute;
+    top: 610px;
+    background-color: rgb(32, 61, 32) ;
+}
+
+
+.Footer h1{
+
+    position: absolute;
+    left: 380px;
+    color: white;
+}
+.Footer h4{
+    position: absolute;
+    left: 480px;
+    color: white;
+    top: 15px;
+}
